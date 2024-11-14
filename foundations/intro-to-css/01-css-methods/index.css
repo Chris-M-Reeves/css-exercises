@@ -1,0 +1,20 @@
+/* index.html */ 
+
+div {
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+button{
+    transition-duration: 0.4s;
+
+}
+
+.button:hover{
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,22 @@
+/* index.html */
+
+p {
+   
+    background-color: rgb(248, 187, 187);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.d1{
+    color: blue;
+    font-size: 36px;
+}
+
+.p2{
+    font-size: 24px;
+}
+
+.d2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
